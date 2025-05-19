@@ -2,7 +2,7 @@
 
 The `php-business-website` is a **modern business website template** built using **PHP** and **HTML/CSS**. This project is designed for businesses looking for a **professional online presence**. The template is **highly customizable**, allowing users to **adapt its design and features** based on their requirements.  
 
-![🌍 Business Website](https://github.com/Aditya11022005/vedh_media_Company_Portfolio-Website/blob/main/assets/img/banner-1.png)  
+![🌍 Business Website](https://github.com/Aditya11022005/vedh_media_Company_Portfolio-Website/assets/img/banner-1.png)  
 
 ## ✨ Project Characteristics  
 
@@ -10,13 +10,13 @@ The `php-business-website` is a **modern business website template** built using
 🔹 **📱 Fully Responsive:** Works perfectly on **mobile and desktop** devices.  
 🔹 **🎨 Customizable:** Modify the **design, colors, and content** as needed.  
 
-![📊 Business Showcase](https://github.com//Aditya11022005/vedh_media_Company_Portfolio-Website/blob/main/assets/img/banner-2.png)  
+![📊 Business Showcase](https://github.com//Aditya11022005/vedh_media_Company_Portfolio-Website/assets/img/banner-2.png)  
 
 ## 🔑 Admin Panel  
 
 The **admin panel** is user-friendly and designed for users **without coding experience**. You can **update text, images, and manage your portfolio** effortlessly.  
 
-![🛠️ Admin Panel](https://github.com//Aditya11022005//blob/main/assets/img/admin-panel-1.png)  
+![🛠️ Admin Panel](https://github.com//Aditya11022005/assets/img/admin-panel-1.png)  
 🖥 **Admin Login:** `Viraj`  
 🔑 **Password:** `1234`  
 
@@ -26,7 +26,7 @@ The **admin panel** is user-friendly and designed for users **without coding exp
 ✅ **🖼️ Portfolio Management** – Add/remove services and products.  
 ✅ **👥 User Management** – Manage user accounts and access levels.  
 
-![⚙️ Admin Dashboard](https://github.com//Aditya11022005/vedh_media_Company_Portfolio-Website/blob/main/assets/img/admin-panel-2.png)  
+![⚙️ Admin Dashboard](https://github.com//Aditya11022005/vedh_media_Company_Portfolio-Website/assets/img/admin-panel-2.png)  
 
 ## 🚀 Key Features  
 
